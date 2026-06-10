@@ -1,0 +1,81 @@
+provider_id,provider_name,team,manager,hire_date,active,specialty
+PRV-0001,John Harris,Surgery,Dr. Reynolds,06-Feb-2019,True,NP
+PRV-0002,Susan Nguyen,Surgery,Dr. Chen,2014-06-28,1,RN
+PRV-0003,Andrew Taylor,Specialty,Dr. Patel,03/22/2011,YES,PA
+PRV-0004,Lisa Wilson,Radiology,Dr. Okonkwo,12-Apr-2010,YES,PA
+PRV-0005,Ashley Walker,Emergency,Dr. Patel,2020-04-08,YES,PhD
+PRV-0006,James Johnson,Emergency,Dr. Reynolds,07/29/2015,False,PA
+PRV-0007,Andrew Hernandez,Primary Care,Dr. Reynolds,2010-01-01,Active,NP
+PRV-0008,Robert Moore,Radiology,Dr. Reynolds,2014-04-12,1,MD
+PRV-0009,Sandra Wilson,Primary Care,Dr. Reynolds,2012-09-10,1,NP
+PRV-0010,Sandra Nguyen,Mental Health,Dr. Patel,2010-04-28,YES,PA
+PRV-0011,Robert Martinez,Specialty,Dr. Reynolds,2010-07-04,Active,PhD
+PRV-0012,Margaret Robinson,Radiology,Dr. Kapoor,06/19/2018,Inactive,DO
+PRV-0013,Charles Walker,Specialty,Dr. Chen,12/27/2010,1,PhD
+PRV-0014,Jessica Lewis,Surgery,Dr. Reynolds,06-Feb-2016,YES,MD
+PRV-0015,Kimberly Young,Surgery,Dr. Kapoor,19-Aug-2022,Active,PhD
+PRV-0016,Joshua White,Radiology,Dr. Okonkwo,23-Jan-2011,True,NP
+PRV-0017,Kimberly Wright,Specialty,Dr. Chen,16-May-2018,1,PhD
+PRV-0018,Nancy Robinson,Oncology,Dr. Chen,10/11/2017,Active,PhD
+PRV-0019,Nancy Ramirez,Primary Care,Dr. Patel,2021-02-03,Active,NP
+PRV-0020,Mark Wright,Surgery,Dr. Kapoor,06/19/2017,Active,PA
+PRV-0021,Joshua Perez,Emergency,Dr. Kapoor,11-May-2021,YES,NP
+PRV-0022,Jennifer Clark,Primary Care,Dr. Patel,14-Aug-2014,Active,MD
+PRV-0023,Thomas Scott,Mental Health,Dr. Kapoor,27-Aug-2021,True,NP
+PRV-0024,Nancy Scott,Radiology,Dr. Patel,06-Jul-2017,1,RN
+PRV-0025,Michael Anderson,Mental Health,Dr. Okonkwo,11/30/2014,Active,PhD
+PRV-0026,Ashley Martinez,Primary Care,Dr. Chen,03/23/2014,True,RN
+PRV-0027,Richard Johnson,Primary Care,Dr. Reynolds,2016-10-17,True,MD
+PRV-0028,Robert Taylor,Radiology,Dr. Reynolds,2014-08-24,True,PA
+PRV-0029,Lisa Harris,Oncology,Dr. Kapoor,2019-01-15,0,RN
+PRV-0030,Ashley Williams,Radiology,Dr. Chen,2020-09-24,True,MD
+PRV-0031,Paul Miller,Radiology,Dr. Patel,27-Sep-2015,Active,PA
+PRV-0032,John Young,Surgery,Dr. Reynolds,2020-12-30,Active,PA
+PRV-0033,Michael Robinson,Radiology,Dr. Chen,03/13/2022,NO,DO
+PRV-0034,Kimberly Lewis,Specialty,Dr. Patel,2020-07-11,0,MD
+PRV-0035,Steven Lewis,Primary Care,Dr. Patel,03/26/2010,True,RN
+PRV-0036,Paul Brown,Oncology,Dr. Patel,02/29/2016,Active,PhD
+PRV-0037,Charles Hernandez,Primary Care,Dr. Chen,04-Aug-2021,Active,PA
+PRV-0038,Robert Gonzalez,Radiology,Dr. Okonkwo,07/28/2019,YES,MD
+PRV-0039,Matthew Williams,Oncology,Dr. Kapoor,09/08/2018,YES,PA
+PRV-0040,Linda Miller,Specialty,Dr. Kapoor,01/24/2021,Active,PhD
+PRV-0041,Nancy Ramirez,Primary Care,Dr. Patel,16-Aug-2022,Inactive,PA
+PRV-0042,John Moore,Radiology,Dr. Patel,11-Mar-2022,Active,RN
+PRV-0043,Daniel Walker,Radiology,Dr. Patel,07/03/2011,0,NP
+PRV-0044,Andrew Lopez,Mental Health,Dr. Kapoor,2012-09-18,False,PhD
+PRV-0045,Donald Jones,Surgery,Dr. Kapoor,31-Mar-2022,1,RN
+PRV-0046,Richard Martinez,Oncology,Dr. Kapoor,07-Aug-2012,YES,PhD
+PRV-0047,Steven Smith,Primary Care,Dr. Patel,06-Oct-2018,False,PA
+PRV-0048,Christopher Thomas,Surgery,Dr. Okonkwo,11/25/2021,NO,NP
+PRV-0049,Michael Lopez,Radiology,Dr. Patel,25-Aug-2020,YES,PhD
+PRV-0050,Barbara Rodriguez,Surgery,Dr. Patel,02/22/2022,True,MD
+PRV-0051,Andrew Hernandez,Specialty,Dr. Okonkwo,18-Sep-2020,True,PA
+PRV-0052,Patricia Ramirez,Primary Care,Dr. Chen,2015-01-21,Active,MD
+PRV-0053,Betty Lewis,Emergency,Dr. Kapoor,27-Apr-2014,1,NP
+PRV-0054,David Thomas,Emergency,Dr. Patel,2020-10-01,Active,RN
+PRV-0055,Anthony Jones,Emergency,Dr. Reynolds,07-Sep-2011,True,NP
+PRV-0056,Sarah Robinson,Mental Health,Dr. Chen,2010-11-24,Active,DO
+PRV-0057,Steven Young,Radiology,Dr. Patel,03-May-2017,Active,DO
+PRV-0058,Jennifer Young,Oncology,Dr. Patel,16-Nov-2022,1,DO
+PRV-0059,Sarah Jackson,Emergency,Dr. Patel,05/31/2011,1,PA
+PRV-0060,Daniel Martin,Specialty,Dr. Chen,09-Apr-2017,YES,PhD
+PRV-0061,Richard Flores,Surgery,Dr. Kapoor,26-Mar-2019,Active,PA
+PRV-0062,Paul Scott,Oncology,Dr. Kapoor,2014-04-06,1,DO
+PRV-0063,Jessica Wilson,Emergency,Dr. Chen,08/31/2021,1,PhD
+PRV-0064,Donald Moore,Emergency,Dr. Okonkwo,23-Feb-2021,Active,PA
+PRV-0065,Thomas Davis,Radiology,Dr. Patel,2013-04-13,True,MD
+PRV-0066,Ashley Robinson,Emergency,Dr. Patel,2011-06-30,1,DO
+PRV-0067,Patricia Ramirez,Mental Health,Dr. Okonkwo,23-Sep-2022,1,MD
+PRV-0068,Linda Rodriguez,Specialty,Dr. Reynolds,2020-09-07,1,MD
+PRV-0069,Michael Scott,Emergency,Dr. Chen,12/03/2010,1,MD
+PRV-0070,James Davis,Oncology,Dr. Patel,30-Jun-2019,True,PA
+PRV-0071,Joseph Flores,Emergency,Dr. Patel,2016-05-17,YES,DO
+PRV-0072,Mary Scott,Emergency,Dr. Chen,12/06/2017,YES,NP
+PRV-0073,David Garcia,Emergency,Dr. Patel,2018-08-06,True,RN
+PRV-0074,Joseph Thomas,Radiology,Dr. Patel,10/17/2012,Inactive,NP
+PRV-0075,Jessica Martin,Radiology,Dr. Patel,11-Dec-2014,True,RN
+PRV-0076,Jennifer Clark,Mental Health,Dr. Okonkwo,2020-01-03,True,NP
+PRV-0077,Mary Wright,Surgery,Dr. Chen,08/16/2018,Active,PhD
+PRV-0078,Christopher Johnson,Radiology,Dr. Patel,09-Jan-2021,1,RN
+PRV-0079,Barbara Jones,Emergency,Dr. Okonkwo,12/02/2019,1,RN
+PRV-0080,Betty Moore,Specialty,Dr. Chen,08/24/2014,1,RN

@@ -1,0 +1,81 @@
+location_id,city,state,region,country,postal_code,territory
+LOC-0001,Los Angeles,CA,West,USA,18769,Territory-C
+LOC-0002,San Francisco,CA,West,USA,89667,Territory-C
+LOC-0003,San Diego,CA,West,USA,77995,Territory-D
+LOC-0004,Sacramento,CA,West,USA,64571,Territory-D
+LOC-0005,Houston,TX,East,USA,92773,Territory-B
+LOC-0006,Dallas,TX,South,USA,50712,Territory-E
+LOC-0007,Austin,TX,South,USA,25970,Territory-E
+LOC-0008,San Antonio,TX,South,USA,46948,Territory-C
+LOC-0009,Miami,FL,South,USA,26794,Territory-C
+LOC-0010,Orlando,FL,South,USA,72065,Territory-A
+LOC-0011,Tampa,FL,East,USA,64657,Territory-B
+LOC-0012,Jacksonville,FL,South,USA,52755,Territory-B
+LOC-0013,New York,NY,Northeast,USA,50964,Territory-D
+LOC-0014,Buffalo,NY,Northeast,USA,82744,Territory-C
+LOC-0015,Albany,NY,Northeast,USA,53392,Territory-B
+LOC-0016,Rochester,NY,Northeast,USA,52183,Territory-E
+LOC-0017,Philadelphia,PA,Northeast,USA,40005,Territory-E
+LOC-0018,Pittsburgh,PA,Northeast,USA,42649,Territory-D
+LOC-0019,Harrisburg,PA,Northeast,USA,12542,Territory-C
+LOC-0020,Allentown,PA,Northeast,USA,22528,Territory-D
+LOC-0021,Chicago,IL,Midwest,USA,91737,Territory-C
+LOC-0022,Aurora,IL,Midwest,USA,74348,Territory-D
+LOC-0023,Rockford,IL,Midwest,USA,44866,Territory-A
+LOC-0024,Naperville,IL,Midwest,USA,35320,Territory-C
+LOC-0025,Columbus,OH,Midwest,USA,57681,Territory-A
+LOC-0026,Cleveland,OH,Midwest,USA,39272,Territory-A
+LOC-0027,Cincinnati,OH,Midwest,USA,91350,Territory-D
+LOC-0028,Toledo,OH,Midwest,USA,45750,Territory-C
+LOC-0029,Atlanta,GA,South,USA,51178,Territory-E
+LOC-0030,Savannah,GA,South,USA,36222,Territory-B
+LOC-0031,Augusta,GA,South,USA,88326,Territory-E
+LOC-0032,Macon,GA,South,USA,17938,Territory-B
+LOC-0033,Charlotte,NC,South,USA,76077,Territory-C
+LOC-0034,Raleigh,NC,South,USA,59284,Territory-D
+LOC-0035,Greensboro,NC,South,USA,11430,Territory-C
+LOC-0036,Durham,NC,South,USA,28882,Territory-C
+LOC-0037,Detroit,MI,West,USA,20316,Territory-C
+LOC-0038,Grand Rapids,MI,Midwest,USA,29348,Territory-D
+LOC-0039,Lansing,MI,Midwest,USA,82779,Territory-B
+LOC-0040,Ann Arbor,MI,Midwest,USA,51168,Territory-A
+LOC-0041,Seattle,WA,West,USA,69761,Territory-C
+LOC-0042,Tacoma,WA,West,USA,89500,Territory-D
+LOC-0043,Spokane,WA,West,USA,86871,Territory-B
+LOC-0044,Bellevue,WA,West,USA,12222,Territory-A
+LOC-0045,Phoenix,AZ,East,USA,82427,Territory-D
+LOC-0046,Tucson,AZ,West,USA,51322,Territory-D
+LOC-0047,Scottsdale,AZ,West,USA,92429,Territory-D
+LOC-0048,Tempe,AZ,West,USA,61843,Territory-B
+LOC-0049,Denver,CO,West,USA,14526,Territory-C
+LOC-0050,Colorado Springs,CO,West,USA,84518,Territory-A
+LOC-0051,Aurora,CO,West,USA,17321,Territory-B
+LOC-0052,Boulder,CO,West,USA,18899,Territory-B
+LOC-0053,Nashville,TN,South,USA,78521,Territory-B
+LOC-0054,Memphis,TN,South,USA,40803,Territory-A
+LOC-0055,Knoxville,TN,South,USA,56803,Territory-C
+LOC-0056,Chattanooga,TN,South,USA,55032,Territory-A
+LOC-0057,Indianapolis,IN,Midwest,USA,81448,Territory-A
+LOC-0058,Fort Wayne,IN,Midwest,USA,94124,Territory-D
+LOC-0059,Evansville,IN,Midwest,USA,81840,Territory-A
+LOC-0060,South Bend,IN,Midwest,USA,68785,Territory-B
+LOC-0061,Kansas City,MO,Midwest,USA,44177,Territory-B
+LOC-0062,St. Louis,MO,Midwest,USA,94509,Territory-E
+LOC-0063,Springfield,MO,South,USA,72743,Territory-A
+LOC-0064,Columbia,MO,South,USA,30005,Territory-B
+LOC-0065,Baltimore,MD,South,USA,52329,Territory-D
+LOC-0066,Annapolis,MD,South,USA,97852,Territory-D
+LOC-0067,Rockville,MD,East,USA,74517,Territory-A
+LOC-0068,Gaithersburg,MD,South,USA,64386,Territory-E
+LOC-0069,Milwaukee,WI,South,USA,87289,Territory-A
+LOC-0070,Madison,WI,Midwest,USA,86380,Territory-D
+LOC-0071,Green Bay,WI,North,USA,86229,Territory-C
+LOC-0072,Kenosha,WI,Midwest,USA,31519,Territory-D
+LOC-0073,Minneapolis,MN,Midwest,USA,80284,Territory-A
+LOC-0074,St. Paul,MN,Midwest,USA,91630,Territory-C
+LOC-0075,Rochester,MN,Midwest,USA,59060,Territory-E
+LOC-0076,Duluth,MN,Midwest,USA,36422,Territory-E
+LOC-0077,Columbia,SC,South,USA,35660,Territory-C
+LOC-0078,Charleston,SC,South,USA,61463,Territory-A
+LOC-0079,Greenville,SC,South,USA,69198,Territory-A
+LOC-0080,Spartanburg,SC,South,USA,95381,Territory-E
