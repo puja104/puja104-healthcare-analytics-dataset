@@ -153,7 +153,10 @@ After completing the audit, the following corrections were applied to produce th
 9. **Fixed region mismatches** — re-derived `region` from `state` using an authoritative state-to-region lookup in both `dim_patients` and `dim_locations`
 10. **Tagged stale dimension references** — added `stale_service_flag` and `stale_provider_flag` to `fact_claims` to identify active claims linked to inactive services or providers
 
-<img width="1022" height="577" alt="image" src="https://github.com/user-attachments/assets/414766b8-70ab-424d-8302-da5e6cb3f51a" />
-<img width="997" height="582" alt="image" src="https://github.com/user-attachments/assets/3f67b902-68f9-4f6d-b570-f93ba82f4a2d" />
+<img width="1140" height="656" alt="image" src="https://github.com/user-attachments/assets/750a0da8-3bba-4032-8963-64963723e93b" />
+<img width="1137" height="652" alt="image" src="https://github.com/user-attachments/assets/cf5a0498-9c02-49bb-80ca-1ac67c065f1b" />
+
+
+
 
 
